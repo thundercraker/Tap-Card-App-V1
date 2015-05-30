@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tap_card_tag" type="id"/>
+    <item name="expandable_spacer" type="integer">10000</item>
+</resources>

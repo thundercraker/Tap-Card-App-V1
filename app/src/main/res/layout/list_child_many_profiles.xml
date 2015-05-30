@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/lcmp_img_0"
+            android:layout_weight="0.15"
+            android:adjustViewBounds="true"
+            android:layout_margin="10dp"
+            android:src="@android:drawable/ic_menu_gallery"
+            android:layout_gravity="center_vertical" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/lcmp_img_1"
+            android:layout_weight="0.15"
+            android:adjustViewBounds="true"
+            android:layout_margin="10dp"
+            android:src="@android:drawable/ic_menu_gallery"
+            android:layout_gravity="center_vertical" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/lcmp_img_2"
+            android:layout_weight="0.15"
+            android:adjustViewBounds="true"
+            android:layout_margin="10dp"
+            android:src="@android:drawable/ic_menu_gallery"
+            android:layout_gravity="center_vertical" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/lcmp_img_3"
+            android:layout_weight="0.15"
+            android:adjustViewBounds="true"
+            android:layout_margin="10dp"
+            android:src="@android:drawable/ic_menu_gallery"
+            android:layout_gravity="center_vertical" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/lcmp_img_4"
+            android:layout_weight="0.15"
+            android:adjustViewBounds="true"
+            android:layout_margin="10dp"
+            android:src="@android:drawable/ic_menu_gallery"
+            android:layout_gravity="center_vertical" />
+    </LinearLayout>
+
+</LinearLayout>
